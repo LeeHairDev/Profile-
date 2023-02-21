@@ -1,0 +1,25 @@
+{
+  "project": [
+    {
+      "id": 6,
+      "name": "Dự án 1",
+      "link": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/6240c0dcaa83054481e642c5_thumbnail.jpeg",
+      "title": "Dự án này là dự án đầu tay được tôi viết bằng Html, Css, JavaScript, Php và Bootstrap",
+      "git": "https://github.com/LeeHairDev"
+    },
+    {
+      "id": 7,
+      "name": "Dự án mẫu",
+      "link": "https://onepagelove.imgix.net/2023/02/opl-master-2.jpg?w=540&max-h=540&fit=crop&fp-y=0&auto=compress",
+      "title": "Dự án này là dự án đầu tay được tôi viết bằng Html, Css, JavaScript, Php và Bootstrap",
+      "git": "https://github.com/LeeHairDev"
+    },
+    {
+      "name": "Dự án tốt nghiệp",
+      "link": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5fbbf761d2d387595b592ef3_thumbnail.jpg",
+      "title": "Đây là Dự Án Cuối cùng của tôi tại FPT Polytechnic được viết bằng Html, Css, React Js, Node Js, Bootstrap",
+      "git": "https://github.com/LeeHairDev",
+      "id": 8
+    }
+  ]
+}
